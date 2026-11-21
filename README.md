@@ -6,4 +6,5 @@ tikz och pgfplots), samt dess lutning, lutningens osäkerhet och ett $R^2$ värd
 
 ## Hur använder jag lnln?
 
-För en CLI-version av lnln, clone:a `master`, för en GUI, se `gui` branch:en.
+För en CLI-version av lnln, clone:a `master`, för en GUI (genom raygui), se
+`gui` branch:en.
