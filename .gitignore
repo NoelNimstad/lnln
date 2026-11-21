@@ -8,3 +8,6 @@ zig-out/
 # Test
 plots/
 data/
+
+# Vad i sjutton en .swp nu är
+*.swp
