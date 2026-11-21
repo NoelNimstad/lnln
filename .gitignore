@@ -1,0 +1,10 @@
+# OSX
+.DS_Store
+
+# Zig
+zig-out/
+.zig-cache/
+
+# Test
+plots/
+data/
